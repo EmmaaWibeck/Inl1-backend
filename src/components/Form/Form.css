@@ -1,0 +1,14 @@
+:root {
+  --black: #000000;
+  --dark-seagreen: #2f3e46;
+}
+
+
+.text-color {
+  color: var(--black)
+}
+
+.btn-color {
+  background-color: var(--dark-seagreen);
+  color: #ffffff;
+}
